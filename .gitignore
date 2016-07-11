@@ -1,6 +1,6 @@
-!HOI4_Calc.exe
-!Unitdata.csv
-
-/obj/*
-/bin/*
+/obj
+/bin/Debug
+/bin/Release/*
+!bin/Release/HOI4_Calc.exe
+!bin/Release/Unitdata.csv
 
